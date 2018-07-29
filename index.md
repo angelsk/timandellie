@@ -1,5 +1,3 @@
-Tim & Ellie's wedding
-=====================
 
 When
 ----
