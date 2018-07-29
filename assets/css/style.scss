@@ -3,13 +3,13 @@
 
 // Headers
 $header-heading-color: #fff;
-$header-bg-color: #533968;
-$header-bg-color-secondary: #753C64;
+$header-bg-color: #491256;
+$header-bg-color-secondary: #ff7600;
 
 // Text
-$section-headings-color: #533968;
+$section-headings-color: #491256;
 $body-text-color: #606c71;
-$body-link-color: #1e6bb8;
+$body-link-color: #ff7600;
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script');
