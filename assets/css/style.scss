@@ -16,6 +16,10 @@ $body-link-color: #ff7600;
 
 h1 {
   font-family: 'Dancing Script', cursive;
-  font-size: 6rem;
+  font-size: 3rem;
   text-transform: lowercase;
+  
+  &.project-name {
+    font-size: 6rem;
+  }
 }
