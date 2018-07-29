@@ -1,3 +1,5 @@
+![The Vineyard, Coddington](/assets/images/coddington-house.jpg)
+
 
 When
 ----
