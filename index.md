@@ -1,6 +1,3 @@
-13th October 2018 | 3pm  
-Coddington Vineyard, Herefordshire
-
 ![The Vineyard, Coddington](/assets/images/coddington-house.jpg)
 
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
