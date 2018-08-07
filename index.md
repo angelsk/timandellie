@@ -15,9 +15,10 @@ On Sunday we are planning a short walk to the Herefordshire Beacon, meeting at t
 How to get there
 ----------------
 
-[Coddington Vineyard](https://coddingtonvineyard.co.uk/), Coddington, Herefordshire, HR8 1JJ
+[Coddington Vineyard](https://coddingtonvineyard.co.uk/), Coddington, Herefordshire, [HR8 1JJ](https://www.google.co.uk/maps/place/Coddington,+Ledbury+HR8+1JJ/@52.0798914,-2.4223671,15z/data=!3m1!4b1!4m5!3m4!1s0x48705429db1c6baf:0x8844156fdfb6e7ef!8m2!3d52.0812081!4d-2.4115516)
 
 Wedding guest parking will not be in the main vineyard car park, but will be signposted when you get into Coddington    
+
 The nearest train stations are [Colwall (3.6 miles)](https://www.google.co.uk/maps/place/Colwall/@52.0803238,-2.3932235,13z/data=!4m8!1m2!2m1!1sTrain+Station!3m4!1s0x487055fef728da13:0x5b33bc559f64e33a!8m2!3d52.0799202!4d-2.3567881) and [Ledbury (3.4 miles)](https://www.google.co.uk/maps/place/Ledbury/@52.0452641,-2.4282487,17z/data=!3m1!4b1!4m5!3m4!1s0x4870545df62ed49f:0x653087565c964b6f!8m2!3d52.0452641!4d-2.42606)  
 
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
@@ -33,8 +34,6 @@ Colwall, Ledbury and Cradley are all within 5 miles of the vineyard
 [The Feathers, hotel in Ledbury](http://www.feathersledbury.co.uk)  
 [The Malvern Hills hotel, Malvern](http://www.malvernhillshotel.co.uk)  
 [Ravens Loft, 2-bedroom loft apartment](https://www.airbnb.co.uk/rooms/19973770?check_in=2018-10-12&guests=1&adults=1&check_out=2018-10-14)  
-
-![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
 
 <div class="safari">
   <p class="highlight">You being at our wedding is all we wish for, however, if you would like to give a gift, we would very much appreciate a small donation towards our honeymoon. We will be setting off on a South African safari adventure the day after the wedding!</p>
