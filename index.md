@@ -62,3 +62,7 @@ Photos
 We would love it if you could upload photos from the wedding!
 
 Please click here for the link: LINK COMING SOON!
+
+<div class="wine">
+  <p>&nbsp;</p>
+</div>
