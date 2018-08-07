@@ -68,14 +68,14 @@ h2, .sub-heading {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 10em 2rem;
+  padding: 10rem 2rem;
 }
 
 .main-content {
   @include large {
-    max-width: 64rem;
+    max-width: none;
     padding: 2rem 6rem;
-    margin: 0 auto;
+    margin: 0;
   }
 
   @include medium {
@@ -84,5 +84,12 @@ h2, .sub-heading {
 
   @include small {
     padding: 2rem 1rem;
+  }
+  
+  p {
+    @include large {
+      max-width: 64rem;
+      margin: 0 auto;
+    }
   }
 }
