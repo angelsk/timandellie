@@ -82,8 +82,16 @@ h2, .sub-heading {
 
 .timandellie {
   background-image: url(/assets/images/timandellie.JPG);
-  background-position: top center;
-  padding: 10rem 2rem;
+  background-position: center 25%;
+  padding: 20rem 2rem;
+  
+  @include medium {
+    padding: 12rem 2rem;
+  }
+
+  @include small {
+    padding: 6rem 2rem;
+  }
 }
 
 .safari, .timandellie {
