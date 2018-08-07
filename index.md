@@ -33,10 +33,14 @@ Colwall, Ledbury and Cradley are all within 5 miles of the vineyard
 
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
 
+<div class="safari">
+
 You being at our wedding is all we wish for, however, if you would like to give a gift, we would very much appreciate a small donation towards our honeymoon. We will be setting off on a South African safari adventure the day after the wedding!
 {:class="highlight"}
 
 ![Safari](/assets/images/safari.jpg)
+
+</div>
 
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
 
