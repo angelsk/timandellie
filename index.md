@@ -26,7 +26,7 @@ The nearest train stations are [Colwall (3.6 miles)](https://www.google.co.uk/ma
 Where to stay
 -------------
 
-Colwall, Ledbury and Cradley are all within 5 miles of the vineyard
+There is limited accommodation in Coddington itself; but Colwall, Ledbury and Cradley are all within five miles of the vineyard. Below are some suggestions of places to stay, and we recommend you book taxis well in advance.
 
 [The Moats, B&B near Coddington](http://www.themoatsledbury.co.uk)  
 [Queenswood, B&B in Cradley](http://www.malvernhillsbandb.co.uk)   
@@ -34,6 +34,12 @@ Colwall, Ledbury and Cradley are all within 5 miles of the vineyard
 [The Feathers, hotel in Ledbury](http://www.feathersledbury.co.uk)  
 [The Malvern Hills hotel, Malvern](http://www.malvernhillshotel.co.uk)  
 [Ravens Loft, 2-bedroom loft apartment](https://www.airbnb.co.uk/rooms/19973770?check_in=2018-10-12&guests=1&adults=1&check_out=2018-10-14)  
+
+_Local taxi services_  
+Colwall Cabbie 01684 540 717  
+Ledbury Taxi Service 01531 633 596  
+G&T Private Hire 07922 126 136  
+Apollo Taxis 01684 564 442  
 
 <div class="safari">
   <p class="highlight">You being at our wedding is all we wish for, however, if you would like to give a gift, we would very much appreciate a small donation towards our honeymoon. We will be setting off on a South African safari adventure the day after the wedding!</p>
