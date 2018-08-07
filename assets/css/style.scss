@@ -74,22 +74,30 @@ h2, .sub-heading {
 .main-content {
   @include large {
     max-width: none;
-    padding: 2rem 6rem;
+    padding: 2rem 0;
     margin: 0;
   }
 
   @include medium {
-    padding: 2rem 4rem;
+    padding: 2rem 0;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 2rem 0;
   }
   
   p {
     @include large {
       max-width: 48rem;
       margin: 0 auto 1rem auto;
+    }
+    
+    @include medium {
+      padding: 0 4rem;
+    }
+
+    @include small {
+      padding: 0 1rem;
     }
   }
 }
