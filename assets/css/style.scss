@@ -18,18 +18,36 @@ body {
   text-align: center;
 }
 
-h1 {
+h1, h1.project_name {
   font-family: 'Dancing Script', cursive;
-  font-size: 3rem;
-  
-  &.project-name {
+
+  @include large {
     font-size: 6rem;
+  }
+
+  @include medium {
+    font-size: 5rem;
+  }
+
+  @include small {
+    font-size: 4rem;
   }
 }
 
 h2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 2.5rem;
+  
+  @include large {
+    font-size: 2.5rem;
+  }
+
+  @include medium {
+    font-size: 2rem;
+  }
+
+  @include small {
+    font-size: 1.5rem;
+  }
 }
 
 .page-header {
