@@ -8,7 +8,9 @@ Carriages at midnight
 
 On Sunday we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday, followed by lunch at the hotel - do come if you can!
 
-![Tim and Ellie](/assets/images/timandellie.JPG)
+<div class="timandellie">
+  <p>&nbsp;</p>
+</div>
 
 How to get there
 ----------------
@@ -23,7 +25,8 @@ The nearest train stations are [Colwall (3.6 miles)](https://www.google.co.uk/ma
 Where to stay
 -------------
 
-Colwall, Ledbury and Cradley are all within 5 miles of the vineyard  
+Colwall, Ledbury and Cradley are all within 5 miles of the vineyard
+
 [The Moats, B&B near Coddington](http://www.themoatsledbury.co.uk)  
 [Queenswood, B&B in Cradley](http://www.malvernhillsbandb.co.uk)   
 [Colwall Park, hotel in Colwall](http://www.colwall.co.uk)  
