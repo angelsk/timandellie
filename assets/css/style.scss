@@ -54,7 +54,7 @@ h2, .sub-heading {
   text-shadow: 3px 3px 0 $body-text-color, -1px -1px 0 $body-text-color, 1px -1px 0 $body-text-color, -1px 1px 0 $body-text-color, 1px 1px 0 $body-text-color;
 }
 
-.safari, .timandellie, .page-header {
+.wine, .safari, .timandellie, .page-header {
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -84,7 +84,7 @@ h2, .sub-heading {
   }
 }
 
-.timandellie {
+.timandellie, .wine {
   background-image: url(/assets/images/timandellie.JPG);
   background-position: center 25%;
   padding: 20rem 2rem;
@@ -98,7 +98,7 @@ h2, .sub-heading {
   }
 }
 
-.safari, .timandellie {
+.wine, .safari, .timandellie {
   margin-bottom: 1rem;
   margin-top: 3rem;
 }
