@@ -88,8 +88,8 @@ h2, .sub-heading {
   
   p {
     @include large {
-      max-width: 64rem;
-      margin: 0 auto;
+      max-width: 48rem;
+      margin: 0 auto 1rem auto;
     }
   }
 }
