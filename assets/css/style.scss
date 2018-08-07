@@ -50,10 +50,6 @@ h2, .sub-heading {
   }
 }
 
-.img-divider {
-  margin-top: 1rem;
-}
-
 .safari, .timandellie, .page-header {
   background-repeat: no-repeat;
   background-size: cover;
@@ -116,6 +112,10 @@ h2, .sub-heading {
 
   @include small {
     padding: 2rem 0;
+  }
+  
+  .img-divider {
+    margin-top: 1rem;
   }
   
   p {
