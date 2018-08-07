@@ -50,10 +50,13 @@ h2, .sub-heading {
   }
 }
 
-.page-header {
-  background-image: url(/assets/images/coddington-house.jpg);
+.safari, .timandellie, .page-header {
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.page-header {
+  background-image: url(/assets/images/coddington-house.jpg);
   background-position: center;
 }
 
@@ -65,19 +68,25 @@ h2, .sub-heading {
 
 .safari {
   background-image: url(/assets/images/safari.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   background-position: center;
   padding: 10rem 2rem;
-  margin-bottom: 1rem;
+  
+  @include medium {
+    padding: 8rem 2rem;
+  }
+
+  @include small {
+    padding: 6rem 2rem;
+  }
 }
 
 .timandellie {
   background-image: url(/assets/images/timandellie.JPG);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-position: top center;
   padding: 10rem 2rem;
+}
+
+.safari, .timandellie {
   margin-bottom: 1rem;
 }
 
