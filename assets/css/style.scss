@@ -18,7 +18,7 @@ body {
   text-align: center;
 }
 
-h1, h1.project_name {
+h1, .project-name {
   font-family: 'Dancing Script', cursive;
 
   @include large {
@@ -34,7 +34,7 @@ h1, h1.project_name {
   }
 }
 
-h2 {
+h2, .sub-heading {
   font-family: 'Dancing Script', cursive;
   
   @include large {
