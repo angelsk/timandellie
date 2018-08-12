@@ -61,6 +61,10 @@ h2, .sub-heading {
 .page-header {
   background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)), url(/assets/images/coddington-house2.jpg);
   background-position: center;
+  
+  @include large {
+    padding: 7rem 6rem;
+  }
 }
 
 .safari {
