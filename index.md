@@ -1,6 +1,6 @@
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
 
-We would be delighted if you could join us to celebrate our wedding on 
+We would be delighted if you could join us to celebrate our wedding on  
 Saturday 13th October 2018 at Coddington Vineyard
 
 Ceremony 3pm
