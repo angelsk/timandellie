@@ -7,7 +7,7 @@ Ceremony 3pm
 
 Carriages at midnight
 
-On Sunday we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday, followed by lunch at the hotel – do come if you can!
+On Sunday 14th we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday, followed by lunch at the hotel – do come if you can!
 
 <div class="timandellie">
   <p>&nbsp;</p>
