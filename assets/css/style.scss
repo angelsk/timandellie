@@ -51,17 +51,13 @@ h2, .sub-heading {
   }
 }
 
-.project-name, .sub-heading {
-  text-shadow: 3px 3px 0 $body-text-color, -1px -1px 0 $body-text-color, 1px -1px 0 $body-text-color, -1px 1px 0 $body-text-color, 1px 1px 0 $body-text-color;
-}
-
 .wine, .safari, .timandellie, .page-header {
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .page-header {
-  background-image: url(/assets/images/coddington-house2.jpg);
+  background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)), url(/assets/images/coddington-house2.jpg);
   background-position: center;
 }
 
