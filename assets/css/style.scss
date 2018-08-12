@@ -23,15 +23,15 @@ h1, .project-name {
   font-family: 'Raleway', sans-serif;
 
   @include large {
-    font-size: 6rem;
-  }
-
-  @include medium {
     font-size: 5rem;
   }
 
-  @include small {
+  @include medium {
     font-size: 4rem;
+  }
+
+  @include small {
+    font-size: 3rem;
   }
 }
 
@@ -39,15 +39,15 @@ h2, .sub-heading {
   font-family: 'Raleway', sans-serif;
   
   @include large {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   @include medium {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
 
   @include small {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }
 
