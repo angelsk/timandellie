@@ -61,20 +61,6 @@ h2, .sub-heading {
   background-position: center;
 }
 
-p.highlight {
-  font-size: 1.1rem;
-  padding: 1.5rem;
-  opacity: 0.8;
-  
-  @include medium {
-    padding: 1.5rem;
-  }
-  
-  @include small {
-    padding: 1.5rem;
-  }
-}
-
 .safari {
   background-image: url(/assets/images/safari.jpg);
   background-position: center;
@@ -155,6 +141,20 @@ p.highlight {
 
     @include small {
       padding: 0 1rem;
+    }
+    
+    &.highlight {
+      font-size: 1.1rem;
+      padding: 1.5rem;
+      opacity: 0.8;
+  
+      @include medium {
+        padding: 1.5rem;
+      }
+  
+      @include small {
+        padding: 1.5rem;
+      }
     }
   }
 }
