@@ -1,12 +1,13 @@
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
 
-We would be delighted if you could join us to celebrate our wedding on Saturday 13th October 2018 at Coddington Vineyard
+We would be delighted if you could join us to celebrate our wedding on 
+Saturday 13th October 2018 at Coddington Vineyard
 
-3pm Ceremony
+Ceremony 3pm
 
 Carriages at midnight
 
-On Sunday we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday, followed by lunch at the hotel - do come if you can!
+On Sunday we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday, followed by lunch at the hotel – do come if you can!
 
 <div class="timandellie">
   <p>&nbsp;</p>
@@ -26,7 +27,7 @@ The nearest train stations are [Colwall (3.6 miles)](https://www.google.co.uk/ma
 Where to stay
 -------------
 
-There is limited accommodation in Coddington itself; but Colwall, Ledbury and Cradley are all within five miles of the vineyard. Below are some suggestions of places to stay, and we recommend you book taxis well in advance.
+There is limited accommodation in Coddington itself, but Colwall, Ledbury and Cradley are all within five miles of the vineyard. Below are some suggestions of places to stay, and we recommend you book taxis well in advance.
 
 [The Moats, B&B near Coddington](http://www.themoatsledbury.co.uk)  
 [Queenswood, B&B in Cradley](http://www.malvernhillsbandb.co.uk)   
@@ -42,7 +43,7 @@ G&T Private Hire 07922 126 136
 Apollo Taxis 01684 564 442  
 
 <div class="safari">
-  <p class="highlight">You being at our wedding is all we wish for, however, if you would like to give a gift, we would very much appreciate a small donation towards our honeymoon. We will be setting off on a South African safari adventure the day after the wedding!</p>
+  <p class="highlight">You being at our wedding is all we wish for. However, if you would like to give a gift, we would very much appreciate a small donation towards our honeymoon. We will be setting off on a South African safari adventure the day after the wedding!</p>
 </div>
 
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
