@@ -7,7 +7,7 @@ Ceremony 3pm
 
 Carriages at midnight
 
-On Sunday 14th we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday, followed by lunch at the hotel – do come if you can!
+On Sunday 14th we are planning a short walk to the Herefordshire Beacon, meeting at the Malvern Hills hotel at midday. We can grab some lunch there afterwards for those who fancy it!
 
 <div class="timandellie">
   <p>&nbsp;</p>
@@ -43,7 +43,8 @@ G&T Private Hire 07922 126 136
 Apollo Taxis 01684 564 442  
 
 <div class="safari">
-  <p class="highlight">You being at our wedding is all we wish for. However, if you would like to give a gift, we would very much appreciate a small donation towards our honeymoon. We will be setting off on a South African safari adventure the day after the wedding!</p>
+  <p class="highlight">We are so excited to be seeing you all at our wedding! Having lived together for a few years now, we really do have everything we need, so there is no need to bring any gifts. If you do want to give something, then a contribution towards our honeymoon in South Africa would be incredible. We're going on safari which is something we've both wanted to do for such a long time, and it really does feel like a once in a lifetime opportunity. But as cliched as it sounds, you being at our wedding really is the most important thing to us so please do not feel like you have to do anything!<br /><br />
+We have a honeymoon gift registry at <a href="https://www.honeyfund.com/Registry?id=862065&rid=754611&t=1">Honeyfund</a>.</p>
 </div>
 
 ![Grapevine](/assets/images/grapevine.gif){:class="img-divider"}
